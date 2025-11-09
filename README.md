@@ -1,5 +1,7 @@
 #  Waste Detection Project
 
+![Waste Sample](images/waste.png)
+
 This project uses **YOLOv8** for real-time waste detection in videos and integrates an **OpenAI Vision-Language Model (VLM)** for accurate classification verification.  
 The VLM runs in **background threads** to keep video processing fast and smooth.
 
@@ -34,5 +36,6 @@ The VLM runs in **background threads** to keep video processing fast and smooth.
 - **Snapshots:** Each detected waste object is saved as an image in the `/outputs/snapshots` folder.
 
 ---
+Note: Not all files are included in this public repo.
 
 © 2025|wastw detection system
